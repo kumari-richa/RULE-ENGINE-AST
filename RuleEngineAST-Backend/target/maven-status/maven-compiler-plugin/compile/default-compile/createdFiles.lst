@@ -1,0 +1,6 @@
+com\example\ruleengineast\repository\RuleRepository.class
+com\example\ruleengineast\RuleEngineAstApplication.class
+com\example\ruleengineast\entity\Node.class
+com\example\ruleengineast\entity\Rule.class
+com\example\ruleengineast\service\RuleService.class
+com\example\ruleengineast\controller\RuleController.class
